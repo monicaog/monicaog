@@ -1,5 +1,6 @@
-**Welcome to my GitHub profile!**
 >“There is no easy or difficult; only familiar and unfamiliar.”
+
+**Welcome to my GitHub profile!**
 
 I recently completed a software engineering bootcamp and am excited to continue growing my skills as a developer. 
 With a passion for technology and solving problems, I am a fast learner who is always seeking new challenges. I have experience in multiple programming languages and am proficient in creating efficient and user-friendly applications.
