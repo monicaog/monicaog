@@ -6,7 +6,7 @@ I recently completed a software engineering bootcamp and am excited to continue 
 With a passion for technology and solving problems, I am a fast learner who is always seeking new challenges. I have experience in multiple programming languages and am proficient in creating efficient and user-friendly applications.
 
 **Skills**
-Python, Java, JavaScript, Django, OOP, NLP, SQL
+Python, Java, JavaScript, Django, OOP, NLP, SQL, Sqlite
 
 **Contact Me**
 If you're interested in working with me or just want to chat, feel free to reach out! 
